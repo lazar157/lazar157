@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazar157&label=Profile%20views&color=0e75b6&style=flat" alt="lazar157" /> </p>
 
-- 🌱 I’m currently learning **Nuxt 3**
-
 - 💬 Ask me about **Vue.js**
 
 - 📫 How to reach me **lazarvu03@gmail.com**
