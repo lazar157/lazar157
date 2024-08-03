@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lazar Vučković</h1>
 <h3 align="center">A passionate frontend developer from Serbia</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/2IudUHdI075HL02Pkk.webp"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lazar157&label=Profile%20views&color=0e75b6&style=flat" alt="lazar157" /> </p>
 
