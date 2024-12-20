@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Vue.js, React.js**
 - Currently learning **React.js & TypeScript**
-
+- 
 - 📫 How to reach me **lazarvu03@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
